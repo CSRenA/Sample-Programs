@@ -1,0 +1,43 @@
+import junit.framework.TestCase;
+
+/**
+ * A JUnit test case class.
+ * Every method starting with the word "test" will be called when running
+ * the test with JUnit.
+ */
+public class QuoteListTest extends TestCase {
+  
+  /**
+   * A test method.
+   * (Replace "X" with a name describing the test.  You may write as
+   * many "testSomething" methods in this class as you wish, and each
+   * one will be called when running JUnit over this class.)
+   */
+  //Create the QuoteList that will be searched
+  QuoteList quotes = new QuoteList();
+  Quote quote1 = new quote("Edgar Allan Poe", "I have great faith in fools; self-confidence my friends call it.");
+  Quote quote2 = new quote("Maya Angelou", "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.");
+  Quote quote3 = new quote("Rosa Parks", "I have learned over the years that when one's mind is made up, this diminishes fear; knowing what must be done does away with fear.");
+  Quote quote4 = new quote("Stephen Hawking", "I have noticed even people who claim everything is predestined, and that we can do nothing to change it, look before they cross the road.");
+  Quote quote5 = new quote("Alan Turing", "A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.");
+  Quote quote6 = new quote("Alexander Hamilton", "There is a certain enthusiasm in liberty, that makes human nature rise above itself, in acts of bravery and heroism.");
+  Quote quote7 = new quote("Hellen Keller", "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.");
+  quotes.setQuote(quote1);
+  quotes.setQuote(quote2);
+  quotes.setQuote(quote3);
+  quotes.setQuote(quote4);
+  quotes.setQuote(quote5);
+  quotes.setQuote(quote6);
+  quotes.setQuote(quote7);
+   
+  
+  public void testAuthor() {
+  }
+  public void testText(){
+  }
+  public void testBoth(){
+  }
+  public void testNone(){
+  }
+  
+}

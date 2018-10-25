@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.gmu.lander16.gmuquotegenerator.NoQuotesActivity"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="0dp">
+
+    <TextView
+        android:id="@+id/ys"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your search, "
+        app:layout_constraintRight_toLeftOf="@+id/searchedTerm"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toTopOf="@+id/dn"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="41dp"
+        android:layout_marginRight="16dp" />
+
+    <TextView
+        android:id="@+id/searchedTerm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        tools:layout_constraintRight_creator="1"
+        android:layout_marginEnd="5dp"
+        app:layout_constraintRight_toRightOf="@+id/dn"
+        app:layout_constraintBaseline_toBaselineOf="@+id/ys"
+        tools:layout_constraintBaseline_creator="1"
+        android:layout_marginRight="5dp" />
+
+    <TextView
+        android:id="@+id/dn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=", did not match any quotes."
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintRight_creator="1"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="185dp"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

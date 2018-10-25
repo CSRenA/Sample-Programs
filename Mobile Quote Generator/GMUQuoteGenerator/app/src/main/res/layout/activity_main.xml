@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.gmu.lander16.gmuquotegenerator.MainActivity"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="0dp">
+
+    <Button
+        android:id="@+id/rqotd"
+        android:layout_width="214dp"
+        android:layout_height="53dp"
+        android:text="Random Quote of the Day"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toTopOf="@+id/sq"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_constraintLeft_creator="1"
+        android:layout_marginBottom="13dp"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <Button
+        android:id="@+id/sq"
+        android:layout_width="214dp"
+        android:layout_height="53dp"
+        android:text="Search Quotes"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toTopOf="@+id/keywordSearch"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_constraintLeft_creator="1"
+        android:layout_marginBottom="17dp"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <Button
+        android:id="@+id/rs"
+        android:layout_width="0dp"
+        android:layout_height="53dp"
+        android:text="Recent Searches"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toTopOf="@+id/anq"
+        app:layout_constraintRight_toRightOf="@+id/keywordSearch"
+        tools:layout_constraintLeft_creator="1"
+        android:layout_marginBottom="10dp"
+        app:layout_constraintLeft_toLeftOf="@+id/keywordSearch" />
+
+    <Button
+        android:id="@+id/anq"
+        android:layout_width="0dp"
+        android:layout_height="53dp"
+        android:text="Add New Quote"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="@+id/rs"
+        tools:layout_constraintLeft_creator="1"
+        android:layout_marginBottom="101dp"
+        app:layout_constraintLeft_toLeftOf="@+id/rs" />
+
+    <Button
+        android:id="@+id/keywordSearch"
+        android:layout_width="0dp"
+        android:layout_height="53dp"
+        android:text="Search By Keyword"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toTopOf="@+id/rs"
+        app:layout_constraintRight_toRightOf="@+id/sq"
+        tools:layout_constraintLeft_creator="1"
+        android:layout_marginBottom="12dp"
+        app:layout_constraintLeft_toLeftOf="@+id/sq" />
+</android.support.constraint.ConstraintLayout>

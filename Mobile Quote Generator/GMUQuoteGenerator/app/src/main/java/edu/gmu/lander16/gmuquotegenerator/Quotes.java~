@@ -1,0 +1,52 @@
+package edu.gmu.lander16.gmuquotegenerator;
+/**
+ * Quote data object.
+ * @author Mongkoldech Rajapakdee & Jeff offutt
+ *         Date: Nov 2009
+ * A quote has two parts, an author and a quoteText.
+ * This bean class provides getters and setters for both, plus a toString()
+ */
+public class Quotes
+{
+    private String author;
+    private String quoteText;
+
+    // Default constructor does nothing
+    public Quotes ()
+    {
+    }
+
+    // Constructor that assigns both strings
+    public Quotes (String author, String quoteText)
+    {
+        this.author = author;
+        this.quoteText = quoteText;
+    }
+
+    // Getter and setter for author
+    public String getAuthor ()
+    {
+        return author;
+    }
+    public void setAuthor (String author)
+    {
+        this.author = author;
+    }
+
+    // Getter and setter for quoteText
+    public String getQuoteText ()
+    {
+        return quoteText;
+    }
+    public void setQuoteText (String quoteText)
+    {
+        this.quoteText = quoteText;
+    }
+
+    @Override
+    public String toString ()
+    {
+        return "Quote {" + "author='" + author + '\'' + ", quoteText='" + quoteText + '\'' + '}';
+    }
+}
+
