@@ -1,5 +1,7 @@
 # Pet Adoption System - Command Line
-# <i> Please note: This program was created as an assignment for a Software Engineering course at George Mason University during the Fall 2017 Semester. This README document has been updated to account for changes in repositories and document locations.</i>
+ <i> Please note: This program was created as an assignment for a Software Engineering course at George Mason University during the Fall 2017 Semester. This README document has been updated to account for changes in repositories and document locations.</i>
+ 
+ <hr></hr>
 
 Assignment for CS321 for Sean, Lauren, Alex, and Adam.
 
