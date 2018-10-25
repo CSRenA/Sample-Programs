@@ -1,0 +1,141 @@
+==================SIGN UP SUCCESS==================
+User successfully signed up with following information:
+Name: Bruce Wayne
+Email: NOTBatman@wayne.com
+
+==================SIGN UP SUCCESS==================
+User successfully signed up with following information:
+Name: Barry Allen
+Email: Ballen1@centralcrime.gov
+
+==================SIGN UP SUCCESS==================
+User successfully signed up with following information:
+Name: Anduin Lothar
+Email: AzLion@stormwind.com
+
+================ADDING PET SUCCESS=================
+A new pet has been added successfully with following information:
+Pet Id: P012345
+Pet Name: Kaylee
+Pet Photo: kaylee.png
+Pet Story: Kaylee is a pet cat. She is the best cat in the world!
+
+================ADDING PET SUCCESS=================
+A new pet has been added successfully with following information:
+Pet Id: P232345
+Pet Name: Mr Whiskers
+Pet Photo: Whiskers.png
+Pet Story: Whiskers is a pet dog. He loves to chase balls and always hogs the bed at night.
+
+================ADDING PET SUCCESS=================
+A new pet has been added successfully with following information:
+Pet Id: P222345
+Pet Name: Stitch
+Pet Photo: stitch.png
+Pet Story: Stitch is a pet cat. She loves pets and even drools when she is getting them.
+
+=================AVAILABLE ANIMALS' LIST=================
+Pet Id: P012345
+Pet Name: Kaylee
+--------------------------
+Pet Id: P232345
+Pet Name: Mr Whiskers
+--------------------------
+Pet Id: P222345
+Pet Name: Stitch
+--------------------------
+
+=================DETAILS OF A SPECIFIC PET=================
+Detail information of pet with id P232345 is below:
+Pet Name: Mr Whiskers
+Pet Picture: Whiskers.png
+Pet Story: Whiskers is a pet dog. He loves to chase balls and always hogs the bed at night.
+
+===========SUBMITTING ADOPTION REQUEST============
+Adoption request submitted successfully with following details:
+Pet ID: P012345
+Requested by: NOTBatman@wayne.com
+Phone: 571 221 1212
+2322, Middle of Nowhere Gotham
+Credit card: 1245 1421 5414 1114
+Expiration Date: 11/20
+
+===========SUBMITTING ADOPTION REQUEST============
+Adoption request submitted successfully with following details:
+Pet ID: P012345
+Requested by: Ballen1@centralcrime.gov
+Phone: 571 319 1139
+2322, Central Hights, Central City
+Credit card: 7890 1111 0319 5432
+Expiration Date: 07/20
+
+This user does not exist! Please create an account for email THE_REAL_BATMAN before attempting to create an adoption request.
+==========VIEW ADOPTION REQUEST STATUS============
+User email: AzLion@stormwind.com
+Pet ID      STATUS
+--------------------------
+
+==========VIEW ADOPTION REQUEST STATUS============
+User email: NOTBatman@wayne.com
+Pet ID      STATUS
+--------------------------
+P012345     pending response
+
+=========REVIEW ADOPTION REQUEST STATUS===========
+Following requests are pending with pet id P222345:
+User email              Request details
+---------------------------------------------------
+
+============CANCEL ADOPTION REQUEST=============
+Following adoption request has been cancel by user:
+User email: NOTBatman@wayne.com
+Pet Id: P012345
+
+=============SETTING UP MEETING============
+Meeting details sent to Ballen1@centralcrime.gov for requesting P012345:
+Possible times: [9/25-10:00, 9/26-10:00, 9/26-14:00, 9/27-10:00]
+Interview contact: sarah@rescuegroup.com
+
+=============SCHEDULING MEETING TIME============
+A meeting has been scheduled with following details:
+User email: Ballen1@centralcrime.gov
+Pet Id: P012345
+Meeting time: 9/26-14:00
+
+================REQUEST DECISION================
+Request with the following details has been approved: 
+User email: Ballen1@centralcrime.gov
+Pet id: P012345
+
+==========VIEW ADOPTION REQUEST STATUS============
+User email: Ballen1@centralcrime.gov
+Pet ID      STATUS
+--------------------------
+P012345     approved
+
+=================AVAILABLE ANIMALS' LIST=================
+Pet Id: P232345
+Pet Name: Mr Whiskers
+--------------------------
+Pet Id: P222345
+Pet Name: Stitch
+--------------------------
+
+===============REPORT - FOR A MONTH================
+Month : November, 2017
+Request State				Count
+---------------------------------------------------
+Pending Review:				2
+Pending Response:			1
+Total adopted:				1
+
+=============TWO WEEKS AUTO NOT APPROVED===========
+All requests marked as 'pending response' for last two weeks
+since given date will be marked as 'not approved'
+
+================MONTH END UPDATE==================
+All canceled requests will be cleaned from the system
+
+=================YEAR END UPDATE==================
+All not approved requests will be cleaned from the system
+

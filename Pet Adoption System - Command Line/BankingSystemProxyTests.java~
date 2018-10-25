@@ -1,0 +1,27 @@
+import junit.framework.TestCase;
+import junit.framework.*;
+import java.util.*;
+
+/**
+ * A JUnit test case class.
+ * Every method starting with the word "test" will be called when running
+ * the test with JUnit.
+ */
+public class BankingSystemProxyTests extends TestCase {
+  
+  //Test verify method w/ invalid card number
+  public static void testVerify1(){
+    BankingSystemProxy bsp = new BankingSystemProxy();
+  }
+  //Test verify method w/ invalid expiration date
+  public static void testVerify2(){
+  }
+  //Test check if valid
+  public static void testCheckIfValid(){
+  }
+
+//Run all of the tests
+public static void main(String[] args) {
+  junit.textui.TestRunner.run(AdoptionRequestManagerTests.class);
+}
+}

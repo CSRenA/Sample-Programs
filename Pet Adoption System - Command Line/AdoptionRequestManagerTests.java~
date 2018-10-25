@@ -1,0 +1,56 @@
+import junit.framework.TestCase;
+
+/**
+ * A JUnit test case class.
+ * Every method starting with the word "test" will be called when running
+ * the test with JUnit.
+ */
+public class AdoptionRequestManagerTests extends TestCase {
+  
+  //Make Request Tests
+  
+  /**
+   * Test too many requests.
+   */
+  public void testMakeRequest1(){
+  }
+  
+    /**
+   * Test user does not exist.
+   */
+  public void testMakeRequest2(){
+  }
+  
+    /**
+   * Test pet does not exist.
+   */
+  public void testMakeRequest3(){
+  }
+  
+    /**
+   * Test invalid payments.
+   */
+  public void testMakeRequest4(){
+  }
+  
+  //Get Status Test
+  
+  //Get Requests User
+  
+  //Get Requests Pet
+  
+  //Get Request Test
+  
+  //Pay Test
+  
+  //Approve Request Test
+  
+  //Deny Request Test
+  
+  //Cancel Request Test
+  
+  //View Request Status Test
+  
+  //Review Request Status Test
+  
+}

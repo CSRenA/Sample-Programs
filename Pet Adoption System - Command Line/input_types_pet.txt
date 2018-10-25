@@ -1,0 +1,17 @@
+@1 Signing up								- signing up for an applicant
+@2 Adding new pet							- adding new pet by office
+@3 Viewing available animals				- viewing available animals by an applicant
+@4 Submitting adoption request				- submitting adoption request by an applicant
+@5 View adoption request status				- view adoption request status by an applicant
+@6 Review adoption request status			- review adoption request status of a pet by office
+@7 Decision on a request					- giving decision of a request by office
+@14 Cancel adoption request					- cancel an adoption request of own by an applicant
+@8 Set up meeting							- setting up meeting by office
+@9 Fix a meeting time						- fix a meeting time by office
+@10 Report for a given month				- viewing monthly report by the office 
+@12 Month end signal
+@13 Year end signal
+@11 View details of a pet					- view detail information of a pet by an applicant
+@15 Date signal
+(two week signal-auto change to 
+not approved from pending response)

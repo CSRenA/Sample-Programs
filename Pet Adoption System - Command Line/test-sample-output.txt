@@ -1,0 +1,89 @@
+==================SIGN UP SUCCESS==================
+User successfully signed up with following information:
+Name: Jason Roy
+Email: jsroy@ecb.com
+
+==================SIGN UP SUCCESS==================
+User successfully signed up with following information:
+Name: Joe Root
+Email: jroot@ecb.com
+
+==================SIGN UP SUCCESS==================
+User successfully signed up with following information:
+Name: Glenn Maxwell
+Email: glennm@ca.com
+
+==================SIGN UP SUCCESS==================
+User successfully signed up with following information:
+Name: Emiley Thompson
+Email: ethompson@gmail.com
+
+==================SIGN UP SUCCESS==================
+User successfully signed up with following information:
+Name: Erik Thompson
+Email: ethompson2@gmail.com
+
+================ADDING PET SUCCESS=================
+A new pet has been added successfully with following information:
+Pet Id: P012345
+Pet Name: Jack
+Pet Photo: jack.png
+Pet Story: Jack is a pet dog. He is very strong. Jack takes rice, biscuits and other food items. He loves me and is very obedient.
+
+================ADDING PET SUCCESS=================
+A new pet has been added successfully with following information:
+Pet Id: P232345
+Pet Name: Olive
+Pet Photo: olive.png
+Pet Story: Olive is a pet cat. She is cute and likes to sleep most of the time.
+
+================ADDING PET SUCCESS=================
+A new pet has been added successfully with following information:
+Pet Id: P222345
+Pet Name: Force
+Pet Photo: force.png
+Pet Story: Force is a pet dog. He is very vibrant and likes to play all the time.
+
+=============SETTING UP MEETING============
+Invalid Meeting to create
+
+=============SETTING UP MEETING============
+Invalid Meeting to create
+
+=============SETTING UP MEETING============
+Meeting details sent to ethompson2@gmail for requesting P222345:
+Possible times: [9/25-10:00, 9/26-10:00, 9/26-14:00, 9/27-10:00]
+Interview contact: sarah@rescuegroup.com
+
+=============SCHEDULING MEETING TIME============
+Invalid Meeting to create
+
+=============SCHEDULING MEETING TIME============
+A meeting has been scheduled with following details:
+User email: ethompson2@gmail
+Pet Id: P222345
+Meeting time: 9/26-14:00
+
+===============REPORT - FOR A MONTH================
+Invalid date!!!
+
+===============REPORT - FOR A MONTH================
+Month : November, 2017
+Request State				Count
+---------------------------------------------------
+Pending Review:				0
+Pending Response:			1
+Total adopted:				0
+
+=============TWO WEEKS AUTO NOT APPROVED===========
+Invalid date!!!
+
+=============TWO WEEKS AUTO NOT APPROVED===========
+No Pending Requests
+
+================MONTH END UPDATE==================
+No requests to be cleaned from the system
+
+=================YEAR END UPDATE==================
+No requests to be cleaned from the system
+

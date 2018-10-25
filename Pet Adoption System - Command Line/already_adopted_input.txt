@@ -1,0 +1,131 @@
+@1
+John Smith
+jsmith@example.com
+
+@1
+Jane Doe
+jdoe@example.com
+
+@1
+George Mason
+george@gmu.edu
+
+@1
+George Washington
+george@gwu.edu
+
+@1
+James Madison
+james@jmu.edu
+
+@1
+Alexander Hamilton
+linmanuel@musicals.com
+
+@2
+P1234
+Sparky
+sparky.png
+Sparky got his name from eating fireworks.
+
+@2
+P4321
+Sprinkles
+sprinkles.jpeg
+Sprinkles loves to be cuddled and play. Doesn't do well with other animals.
+
+@2
+P9878
+Beezie
+beezie.png
+Beezie is a loyal dog who will do anything for her owner. She loves long walks.
+
+@4
+george@gmu.edu
+P9878
+703 920 3948
+1233 Sandwich Street, Canada, Texas 23243
+Lease Rules
+2342 2345 2345 2343
+09/21
+
+@8
+george@gmu.edu
+P9878
+[12/02-10:00, 12/06-10:00, 12/14-14:00, 12/18-10:00]
+
+@9
+george@gmu.edu
+P9878
+12/02-10:00
+
+@7
+george@gmu.edu
+P9878
+Approved
+
+@5
+george@gmu.edu
+
+@4
+george@gwu.edu
+P9878
+2349383826
+9384 Blah Street, Pancake, WaffleTown 23833
+Lease Rules
+2839 2374 9384 3928
+07/20
+
+@4
+jsmith@example.com
+P9878
+2389384839
+2983 Sampson Lane, Ontario, Canada 230829
+Lease Rules
+2389 1093 4893 3829
+11/22
+
+@4
+jdoe@example.com
+P1234
+2038928388
+9283 Canada Way, VA, USA 23892
+Lease Rules
+2389 3891 8301 3892
+12/19
+
+@8
+jdoe@example.com
+P1234
+[12/09-12:00, 12/11-1:00, 12/15-18:00, 12/20-15:00]
+
+@9
+jdoe@example.com
+P1234
+12/09-12:00
+
+@5
+jdoe@example.com
+
+@7
+jdoe@example.com
+P1234
+Approved
+
+@4
+james@jmu.edu
+P1234
+2392038493
+2839 Main Street SW, DC 23982
+Lease Rules
+2342 4539 8394 0859
+12/20
+
+@4
+linmanuel@musical.com
+P1234
+0899839839
+8392 Broadway Ave, New York, New York 98392
+Lease Rules
+1208 2938 9283 9288
+10/21

@@ -1,0 +1,118 @@
+==================SIGN UP SUCCESS==================
+User successfully signed up with following information:
+Name: John Smith
+Email: jsmith@example.com
+
+==================SIGN UP SUCCESS==================
+User successfully signed up with following information:
+Name: Jane Doe
+Email: jdoe@example.com
+
+==================SIGN UP SUCCESS==================
+User successfully signed up with following information:
+Name: George Mason
+Email: george@gmu.edu
+
+==================SIGN UP SUCCESS==================
+User successfully signed up with following information:
+Name: George Washington
+Email: george@gwu.edu
+
+==================SIGN UP SUCCESS==================
+User successfully signed up with following information:
+Name: James Madison
+Email: james@jmu.edu
+
+==================SIGN UP SUCCESS==================
+User successfully signed up with following information:
+Name: Alexander Hamilton
+Email: linmanuel@musicals.com
+
+================ADDING PET SUCCESS=================
+A new pet has been added successfully with following information:
+Pet Id: P1234
+Pet Name: Sparky
+Pet Photo: sparky.png
+Pet Story: Sparky got his name from eating fireworks.
+================ADDING PET SUCCESS=================
+A new pet has been added successfully with following information:
+Pet Id: P4321
+Pet Name: Sprinkles
+Pet Photo: sprinkles.jpeg
+Pet Story: Sprinkles loves to be cuddled and play. Doesn't do well with other animals.
+================ADDING PET SUCCESS=================
+A new pet has been added successfully with following information:
+Pet Id: P9878
+Pet Name: Beezie
+Pet Photo: beezie.png
+Pet Story: Beezie is a loyal dog who will do anything for her owner. She loves long walks.
+
+===========SUBMITTING ADOPTION REQUEST============
+Adoption request submitted successfully with following details:
+Pet ID: P9878
+Requested by: george@gmu.edu
+Phone: 7039203948
+1233 Sandwich Street, Canada, Texas 23243
+Credit card: 2342 2345 2345 2343
+Expiration Date: 09/21
+
+=============SETTING UP MEETING============
+Meeting details sent to george@gmu.edufor requesting P9878:
+Possible times: [12/02-10:00, 12/06-10:00, 12/14-14:00, 12/18-10:00]
+Interview contact: sarah@rescuegroup.com
+
+=============SCHEDULING MEETING TIME============
+A meeting has been scheduled with following details:
+User email: george@gmu.edu
+Pet Id: P222345P9878
+Meeting time: 12/02-10:00
+
+================REQUEST DECISION================
+Request with the following details has been approved: 
+User email: george@gmu.edu
+Pet id: P9878
+
+==========VIEW ADOPTION REQUEST STATUS============
+User email: george@gmu.edu
+Pet ID      STATUS
+--------------------------
+P9878     approved
+
+Pet with ID P9878 has already been adopted!
+
+Pet with ID P9878 has already been adopted!
+
+===========SUBMITTING ADOPTION REQUEST============
+Adoption request submitted successfully with following details:
+Pet ID: P1234
+Requested by: jdoe@example.com
+Phone: 2038928388
+9283 Canada Way, VA, USA 23892
+Credit card: 2389 3891 8301 3892
+Expiration Date: 12/19
+
+=============SETTING UP MEETING============
+Meeting details sent to jdoe@example.comfor requesting P1234:
+Possible times: [12/09-12:00, 12/11-1:00, 12/15-18:00, 12/20-15:00]
+Interview contact: sarah@rescuegroup.com
+
+=============SCHEDULING MEETING TIME============
+A meeting has been scheduled with following details:
+User email: jdoe@example.com
+Pet Id: P222345P1234
+Meeting time: 12/09-12:00
+
+==========VIEW ADOPTION REQUEST STATUS============
+User email: jdoe@example.com
+Pet ID      STATUS
+--------------------------
+P1234     pending response
+
+================REQUEST DECISION================
+Request with the following details has been approved: 
+User email: jdoe@example.com
+Pet id: P1234
+
+Pet with ID P1234 has already been adopted!
+
+Pet with ID P1234 has already been adopted!
